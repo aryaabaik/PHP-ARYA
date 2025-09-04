@@ -1,0 +1,8 @@
+2. Sebuah bioskop ingin membuat sistem sederhana untuk menghitung total pembayaran tiket. Aturan perhitungan:
+Harga tiket dasar Rp 50.000.
+Jika hari weekend (Sabtu/Minggu) ada biaya tambahan Rp 10.000 per tiket.
+Jika pilih kursi VIP, ada biaya tambahan Rp 20.000 per tiket.
+Pajak hiburan sebesar 5% dari total harga tiket.
+
+Pengunjung bisa memesan lebih dari 1 tiket. Sistem ini harus menghitung total pembayaran berdasarkan input 
+pengguna.
